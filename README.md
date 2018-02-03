@@ -26,6 +26,6 @@ Files = ITU-T Recommendations (International Standards Documents of Internationa
   
  - 7. contents (contents of each file after preprocessing process)
   
- - 7-1. preprocessing : slicing / convert comma("'") to space / delete the stopwords
+ * preprocessing : slicing / convert comma("'") to space / delete the stopwords
   
 Developer Contact: hmh929@kaist.ac.kr
