@@ -14,18 +14,18 @@ Files = ITU-T Recommendations (International Standards Documents of Internationa
 
  - 1. original file name
  
-  - 2. series id (ex/ Y.3500)
+ - 2. series id (ex/ Y.3500)
   
-  - 3. series name (ex/ Y)
+ - 3. series name (ex/ Y)
   
-  - 4. series number (ex/ 3500)
+ - 4. series number (ex/ 3500)
   
-  - 5. date (ex/ 201408)
+ - 5. date (ex/ 201408)
   
-  - 6. year (ex/ 2014)
+ - 6. year (ex/ 2014)
   
-  - 7. contents (contents of each file after preprocessing process)
+ - 7. contents (contents of each file after preprocessing process)
   
-  - 7-1. preprocessing : slicing / convert comma("'") to space / delete the stopwords
+ - 7-1. preprocessing : slicing / convert comma("'") to space / delete the stopwords
   
 Developer Contact: hmh929@kaist.ac.kr
